@@ -2,13 +2,13 @@
 
 ### I'm Priya Vaidya, 
 
-A Full Stack Web Developement Student and Team Lead at Lambda School
+A Full Stack Web Developer and Team Lead at Lambda School
 
 ### 💼  Things that I'm currently working on: 
-* Full Stack Development and Computer Science course at Lambda School
+* Looking for my first Software Developer role
 * A few side projects for my portfolio
 * Being the best Team Lead I can be
-* Looking for my first Software Developer role  
+* Obtaining an AWS Cloud Practitioner Certification
 * Learning something new everyday
 * 🔜
  
@@ -26,7 +26,5 @@ Talk to me about
 <a href="https://twitter.com/priyacodes98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-
-Do ⭐ my repository if you find my projects interesting, your star could make someone's day.  
 
 ⭐️ From [Priya Vaidya](https://www.priyavaidya.com)

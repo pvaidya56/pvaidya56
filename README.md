@@ -8,7 +8,7 @@ A Full Stack Web Developer and Team Lead at Lambda School
 * Looking for my first Software Developer role
 * A few side projects for my portfolio
 * Being the best Team Lead I can be
-* Obtaining an AWS Cloud Practitioner Certification
+* Obtaining an AWS Associate Developer Certification
 * Learning something new everyday
 * 🔜
  

@@ -2,7 +2,7 @@
 
 ### I'm Priya Vaidya, 
 
-A Full Stack Web Developer and Team Lead at Lambda School
+A Full Stack Software Developer and Team Lead at Lambda School
 
 ### 💼  Things that I'm currently working on: 
 * Looking for my first Software Developer role

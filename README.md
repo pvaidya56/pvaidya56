@@ -25,7 +25,7 @@ Talk to me about
 <p align="left">
 <a href="https://twitter.com/priyacodes98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/priyavaidya98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://dev.to/pvaidya56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/devto.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://medium.com/@priyavaidya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 
